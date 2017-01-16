@@ -1,0 +1,9 @@
+docker pull registry.access.redhat.com/openshift3/logging-deployer:3.3.1
+docker pull registry.access.redhat.com/openshift3/logging-elasticsearch:3.3.1
+docker pull registry.access.redhat.com/openshift3/logging-kibana:3.3.1
+docker pull registry.access.redhat.com/openshift3/logging-fluentd:3.3.1
+docker pull registry.access.redhat.com/openshift3/logging-auth-proxy:3.3.1
+docker pull registry.access.redhat.com/openshift3/metrics-deployer:3.3.1
+docker pull registry.access.redhat.com/openshift3/metrics-hawkular-metrics:3.3.1
+docker pull registry.access.redhat.com/openshift3/metrics-cassandra:3.3.1
+docker pull registry.access.redhat.com/openshift3/metrics-heapster:3.3.1
